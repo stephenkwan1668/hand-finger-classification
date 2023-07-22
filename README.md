@@ -22,5 +22,5 @@ future applications in this area. In addition to the aforementioned aim, we obse
 persistent homology from Topological Data Analysis (TDA) may assist us in data pre-processing and feature
 extraction.
 
-##Complete report
+## Complete report
 For further reading the complete report is in the pdf files called "ML_Hand_Fingers_Based_Digit_Detection.pdf".
