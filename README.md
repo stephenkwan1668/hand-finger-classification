@@ -10,7 +10,7 @@ efficiency whereas the accuracy of these models are almost the same.
 
 ## Introduction
 Computer image recognition technology has made unprecedented breakthroughs in the last decade, which
-has been largely driven by the development of CNNs. Since the CNN architecture AlexNet[1] won the ImageNet
+has been largely driven by the development of CNNs. Since the CNN architecture AlexNet won the ImageNet
 Large Scale Visual Recognition Challenge (ILSVRC), known as the world cup of computer vision, by a landslide
 in 2012, CNNs have been dominating the field of computer vision (CV).
 The aim of this research project is to develop the ‘best’ CNN architecture on recognizing the number that a
@@ -21,3 +21,6 @@ the study and attempted to build a custom one in an effort to improve accuracy, 
 future applications in this area. In addition to the aforementioned aim, we observe how applying a tool called
 persistent homology from Topological Data Analysis (TDA) may assist us in data pre-processing and feature
 extraction.
+
+##Complete report
+For further reading the complete report is in the pdf files called "ML_Hand_Fingers_Based_Digit_Detection.pdf".
